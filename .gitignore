@@ -8,3 +8,9 @@ build/
 target/
 .idea/
 .vscode/
+
+# Data files (will be regenerated or created by seed script)
+# Uncomment if you don't want to commit data files:
+# Backend/data/users.json
+# Backend/data/tasks.json
+# Backend/data/projects.json
