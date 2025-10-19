@@ -1,0 +1,21 @@
+[
+  {
+    "id": "f39235b0-4b8d-4417-a6f2-de963c878d8e",
+    "email": "demo@teamtask.com",
+    "password": "$2a$10$LfYnfPQADIdzpV73GNThb.0x5Rmr0MIVP7pck3RFCADNn7pXAddjO",
+    "name": "Demo User",
+    "verified": true,
+    "createdAt": "2025-10-19T11:17:18.796Z",
+    "resetToken": "c92880be-6012-40e7-9dc0-746809dabe2f",
+    "resetTokenExpiry": "2025-10-19T12:18:43.680Z"
+  },
+  {
+    "id": "ed87433c-1817-4d77-83b3-ccaafcdc2295",
+    "email": "test@example.com",
+    "password": "$2a$10$ve5WYQPfUOYNISFoauPlP.WaU7NhsBuRUzxYOMQvbvbxTnY/8sLC.",
+    "name": "Test User",
+    "verified": false,
+    "verificationToken": "52af22d6-12c4-4b20-9418-a4ae70068c3f",
+    "createdAt": "2025-10-19T11:18:27.091Z"
+  }
+]

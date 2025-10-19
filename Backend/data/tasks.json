@@ -1,0 +1,62 @@
+[
+  {
+    "id": "aa88f515-0e29-40f9-9238-a7bb6daf9721",
+    "userId": "f39235b0-4b8d-4417-a6f2-de963c878d8e",
+    "title": "Design landing page mockup",
+    "description": "Create initial design concepts for new landing page",
+    "status": "in-progress",
+    "priority": "high",
+    "dueDate": "2025-10-22T11:17:18.796Z",
+    "projectId": "2d72a225-575f-48ec-81a1-8e477f5ec044",
+    "createdAt": "2025-10-19T11:17:18.796Z",
+    "updatedAt": "2025-10-19T11:17:18.796Z"
+  },
+  {
+    "id": "226d94c4-7c03-4d1a-87eb-d9aea99d1811",
+    "userId": "f39235b0-4b8d-4417-a6f2-de963c878d8e",
+    "title": "Setup development environment",
+    "description": "Install and configure all necessary tools",
+    "status": "done",
+    "priority": "high",
+    "dueDate": null,
+    "projectId": "f131293c-cf3a-4260-a49b-beec7f067223",
+    "createdAt": "2025-10-19T11:17:18.796Z",
+    "updatedAt": "2025-10-19T11:17:18.796Z"
+  },
+  {
+    "id": "f9f8f243-36c2-4069-863b-74e453e49d41",
+    "userId": "f39235b0-4b8d-4417-a6f2-de963c878d8e",
+    "title": "Write API documentation",
+    "description": "Document all API endpoints and authentication",
+    "status": "todo",
+    "priority": "medium",
+    "dueDate": "2025-10-26T11:17:18.796Z",
+    "projectId": "2d72a225-575f-48ec-81a1-8e477f5ec044",
+    "createdAt": "2025-10-19T11:17:18.796Z",
+    "updatedAt": "2025-10-19T11:17:18.796Z"
+  },
+  {
+    "id": "b6d1fe76-6da1-41ad-994a-8aab0961d45e",
+    "userId": "f39235b0-4b8d-4417-a6f2-de963c878d8e",
+    "title": "Review code submissions",
+    "description": "Review and provide feedback on pending PRs",
+    "status": "todo",
+    "priority": "low",
+    "dueDate": "2025-10-24T11:17:18.796Z",
+    "projectId": null,
+    "createdAt": "2025-10-19T11:17:18.796Z",
+    "updatedAt": "2025-10-19T11:17:18.796Z"
+  },
+  {
+    "id": "2146aa2a-04a9-42b2-a0af-5b3e6aa3cde2",
+    "userId": "f39235b0-4b8d-4417-a6f2-de963c878d8e",
+    "title": "Test API endpoint",
+    "description": "Verify the API is working",
+    "status": "todo",
+    "priority": "medium",
+    "dueDate": null,
+    "projectId": null,
+    "createdAt": "2025-10-19T11:18:17.943Z",
+    "updatedAt": "2025-10-19T11:18:17.943Z"
+  }
+]

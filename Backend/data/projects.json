@@ -1,0 +1,20 @@
+[
+  {
+    "id": "2d72a225-575f-48ec-81a1-8e477f5ec044",
+    "userId": "f39235b0-4b8d-4417-a6f2-de963c878d8e",
+    "name": "Website Redesign",
+    "description": "Complete overhaul of company website",
+    "color": "#3498db",
+    "createdAt": "2025-10-19T11:17:18.796Z",
+    "updatedAt": "2025-10-19T11:17:18.796Z"
+  },
+  {
+    "id": "f131293c-cf3a-4260-a49b-beec7f067223",
+    "userId": "f39235b0-4b8d-4417-a6f2-de963c878d8e",
+    "name": "Mobile App",
+    "description": "New mobile application development",
+    "color": "#e74c3c",
+    "createdAt": "2025-10-19T11:17:18.796Z",
+    "updatedAt": "2025-10-19T11:17:18.796Z"
+  }
+]

@@ -1,4 +1,8 @@
 // Authentication Module
+// NOTE: This is a prototype implementation. For production:
+// - Use httpOnly cookies instead of localStorage for JWT tokens to prevent XSS attacks
+// - Implement proper CSRF protection
+// - Use secure, sameSite cookie attributes
 const API_BASE = 'http://localhost:3000/api';
 
 class Auth {

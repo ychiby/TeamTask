@@ -6,6 +6,8 @@ const db = require('../data/database');
 const router = express.Router();
 
 // All routes require authentication
+// NOTE: For production, implement rate limiting (e.g., using express-rate-limit)
+// to prevent DoS attacks on authenticated endpoints
 router.use(authMiddleware);
 
 // Get all projects
